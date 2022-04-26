@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacobosbourne?tab=projects&type=beta](https://github.com/jacobosbourne?tab=projects&type=beta)
+- 👨‍💻 All of my school projects are available at [https://github.com/jacobosbourne?tab=projects&type=beta](https://github.com/jacobosbourne?tab=projects&type=beta)
 
 - 💬 Ask me about **Computers,Cars,3D Printers**
 
