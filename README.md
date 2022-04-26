@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my personal school projects are available at [https://github.com/jacobosbourne/LU-COSC-Java.git](https://github.com/jacobosbourne/LU-COSC-Java.git)
+- 👨‍💻 Most of my personal school projects are available at [https://github.com/jacobosbourne/LU-COSC-Java.git](https://github.com/jacobosbourne/LU-COSC-Java.git)
 
 - 💬 Ask me about **Computers,Cars,3D Printers**
 
